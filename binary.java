@@ -6,7 +6,7 @@ public class binary
 	static int randomn;
 	public String getstring() throws IOException
 	{
-	FileReader fr= new FileReader("src\\genetic\\check.java");
+	FileReader fr= new FileReader("check.java");
 	BufferedReader br=new BufferedReader(fr);
 	String str,filestr="";
 	
