@@ -1,5 +1,3 @@
-package genetic;
-
 import java.io.*;
 import java.util.*;
 
